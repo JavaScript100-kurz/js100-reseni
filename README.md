@@ -1,1 +1,1 @@
-# js100-reseni
+# Řešení cvičení ke kurzu JavaScript100
